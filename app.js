@@ -1,2 +1,2 @@
-console.log("Mensaje DevOps");
-console.log("nueva función de login")
+console.log(Mensaje DevOps);
+cosole.log("funcion de login simple");
